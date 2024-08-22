@@ -104,3 +104,48 @@ main {
 #posts-text{
     text-align: center;
 }
+
+#Posts{
+    text-align: center;
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    margin-left: 10px;
+}
+
+#texts-posts{
+    text-align: center;
+    display: flex;
+}
+
+#img-1{
+    height: 400px;
+    width: 400px;
+    margin-right: 100px;
+}
+
+#img-2{
+    height: 400px;
+    width: 400px;
+}
+
+#img-3{
+    height: 400px;
+    width: 400px;
+    margin-left: 100px;
+}
+
+#text-1{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#text-2{
+    margin-left: px;
+    margin-right: 150px;
+}
+
+#text-3{
+    margin-left: auto;
+    margin-right: auto;
+}
