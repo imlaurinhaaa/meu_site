@@ -145,7 +145,7 @@ main {
     transition: transform 0.3s ease;
 }
 
-#img-1:hover{
+#img-1:hover {
     transform: translateY(-15px);
 }
 
@@ -156,7 +156,7 @@ main {
     transition: transform 0.3s ease;
 }
 
-#img-2:hover{
+#img-2:hover {
     transform: translateY(-15px);
 }
 
@@ -168,7 +168,7 @@ main {
     transition: transform 0.3s ease;
 }
 
-#img-3:hover{
+#img-3:hover {
     transform: translateY(-15px);
 }
 
@@ -222,7 +222,7 @@ footer a:hover {
     transition: transform 0.3s ease;
 }
 
-#icon-1:hover{
+#icon-1:hover {
     transform: translateY(-15px);
 }
 
@@ -230,7 +230,7 @@ footer a:hover {
     transition: transform 0.3s ease;
 }
 
-#icon-2:hover{
+#icon-2:hover {
     transform: translateY(-15px);
 }
 
@@ -274,6 +274,7 @@ footer a:hover {
     text-align: end;
     margin-right: 80px;
 }
+
 #page {
     align-items: center;
     text-align: center;
@@ -289,18 +290,18 @@ footer a:hover {
     margin-bottom: 20px;
 }
 
-#photo:hover{
+#photo:hover {
     transform: translateY(-15px);
 }
 
 
-.contato{
+.contato {
     margin-top: 200px;
     text-align: center;
     justify-self: center;
 }
 
-#profiles-img{
+#profiles-img {
     display: flex;
     align-items: center;
     margin-left: 3%;
@@ -312,7 +313,7 @@ footer a:hover {
     transition: transform 0.3s ease;
 }
 
-#github-img:hover{
+#github-img:hover {
     transform: translateY(-15px);
 }
 
@@ -320,7 +321,7 @@ footer a:hover {
     transition: transform 0.3s ease;
 }
 
-#instagram-img:hover{
+#instagram-img:hover {
     transform: translateY(-15px);
 }
 
@@ -328,55 +329,55 @@ footer a:hover {
     transition: transform 0.3s ease;
 }
 
-#linkedln-img:hover{
+#linkedln-img:hover {
     transform: translateY(-15px);
 }
 
-#icons{
+#icons {
     display: flex;
     margin-left: 5%;
 }
 
-.github{
+.github {
     margin-left: 45px
 }
 
-.instagram{
+.instagram {
     margin-left: 235px
 }
 
-.linkedln{
+.linkedln {
     margin-left: 250px
 }
 
-#forms{
+#forms {
     text-align: center;
 }
 
-form{
+form {
     max-width: 600px;
     margin: 0 auto;
-    background-color:#ff00a27a;
+    background-color: #ff00a27a;
     padding: 20px;
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0. 0.1);
 }
 
-form fieldset{
+form fieldset {
     border: 1px solid rgb(255, 255, 255);
     padding: 10px;
     margin-bottom: 20px;
     margin-top: 10px;
 }
 
-form label{
+form label {
     display: block;
     margin-bottom: 5px;
     color: rgb(255, 255, 255);
     font-family: "Gaegu", sans-serif
 }
 
-form legend{
+form legend {
     padding: 0 10px;
     font-weight: bold;
     color: rgb(255, 255, 255);
@@ -394,7 +395,7 @@ form textarea {
     font-family: "Poppins", sans-serif;
 }
 
-form button{
+form button {
     cursor: pointer;
     background-color: #ff00a27a;
     color: rgb(255, 255, 255);
@@ -405,6 +406,6 @@ form button{
     font-family: "Gaegu", sans-serif
 }
 
-form button:hover{
+form button:hover {
     background-color: rgb(19, 197, 19);
 }
