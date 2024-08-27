@@ -135,6 +135,15 @@ main {
 #texts-posts {
     text-align: center;
     display: flex;
+    justify-content: center;
+}
+
+#text-1{
+    margin-right: 100px;
+}
+
+#text-3{
+    margin-left: 100px;
 }
 
 #img-1 {
@@ -170,21 +179,6 @@ main {
 
 #img-3:hover {
     transform: translateY(-15px);
-}
-
-
-
-#text-1 {
-    margin-left: 90px;
-    margin-right: 275px;
-}
-
-#text-2 {
-    margin-right: 20px;
-}
-
-#text-3 {
-    margin-left: 320px;
 }
 
 #line {
@@ -315,7 +309,7 @@ footer a:hover {
 
 #icons {
     display: flex;
-    margin-left: 5%;
+    justify-content: center;
 }
 
 .github {
